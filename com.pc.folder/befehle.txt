@@ -1,0 +1,18 @@
+[PcHerunterfahren] zeit
+[PcNeustarten]
+[suchen] name
+[download] name
+[programm] name
+[log] datum
+
+
+[anfang]
+[ende]
+[sperren]
+[weiter]
+
+[toggleResponseMsg] an/aus
+
+
+ 
+

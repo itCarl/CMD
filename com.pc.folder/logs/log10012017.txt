@@ -1,0 +1,7 @@
+10.01.2017 23:28:55: creating remote file - 176002359610012017.bat
+10.01.2017 23:28:55: deleting file - C:\Users\Tronics-PC\Desktop\com.pc.folder\\command.txt
+10.01.2017 23:28:55: starting file - recovery\176002359610012017.bat
+10.01.2017 23:30:24: starting listener
+10.01.2017 23:30:24: creating remote file - 178962649110012017.bat
+10.01.2017 23:30:24: deleting file - C:\Users\Tronics-PC\Desktop\com.pc.folder\ command.txt
+10.01.2017 23:30:24: starting file - recovery\178962649110012017.bat

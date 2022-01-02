@@ -1,0 +1,22 @@
+IDEE
+
+Jeder User hat ein eigenden usernamen und passwort
+dazu bekommt er auch noch einen rank 
+
+Guest
+Normal
+Moderator
+Admin
+
+cfg.txt ~ admin
+control_panel.bat ~ admin
+login.bat ~ jeder
+add_user.bat ~ admin
+del_user.bat ~ admin
+view_user.bat ~ mod
+register.bat ~ Guest
+temp_user.bat ~ Guest
+user_space.bat ~ Normal
+installer.bat ~ JEDER
+log.text ~ Mod
+user_register.txt / register_accept.bat ~ admin

@@ -1,0 +1,8 @@
+explorer.exe C:\Windows\System32 
+test 
+
+call :test
+
+:test
+echo %1
+goto :eof

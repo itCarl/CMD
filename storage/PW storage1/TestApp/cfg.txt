@@ -1,0 +1,8 @@
+AdminAcc Admin
+MaxFails 3
+
+LogFolderPath log/
+LogFileName log
+LogFileType .txt
+
+GuestName Guest

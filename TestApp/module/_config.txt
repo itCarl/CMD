@@ -1,0 +1,18 @@
+---- Accounts -----
+AdminAcc Admin
+GuestAcc Guest
+AccountsFilePath accounts/
+AccountsFileName _accounts.txt
+
+
+---- Login ----
+MaxFails 3
+
+---- Log ----
+LogFolderPath log/
+LogFileName log.txt
+
+---- Main Menu ----
+Menu Login 1 _login.bat
+Menu Hilfe 2 _help.bat
+Menu Exit 3 _goodbye.bat

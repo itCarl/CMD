@@ -1,0 +1,5 @@
+  192.168.178.1         e8-df-70-ca-db-97     dynamisch 
+  192.168.178.21        4c-cc-6a-b1-5f-7a     dynamisch 
+  192.168.178.26        00-24-fe-3b-8f-e0     dynamisch 
+  192.168.133.254       00-50-56-e5-2e-a2     dynamisch 
+  192.168.40.254        00-50-56-e1-db-5c     dynamisch 

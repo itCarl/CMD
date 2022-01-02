@@ -1,0 +1,15 @@
+1.Loader (module/loader.bat)
+ - guckt ob alle nötigen datein vorhanden sind
+ - setzt allgemeine variablen von der config
+ - 
+
+
+
+2. Menu builder
+ - guckt in die config
+ - zieht sich die daten und baut ein menu
+
+
+Datei in bild verstecken 
+1. bat in archiv
+2. copy bild.png + datei.bat neuerName.png
